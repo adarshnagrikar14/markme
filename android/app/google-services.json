@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "635199331226",
+    "project_id": "markmeplus",
+    "storage_bucket": "markmeplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635199331226:android:a9a00cd690bebfd3693823",
+        "android_client_info": {
+          "package_name": "com.app.markme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635199331226-jgvschbbg3ucts9ut9tdurn37scjbq0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwmbquOrMa7MQJquTwBl1mgP6HgACjYBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635199331226-jgvschbbg3ucts9ut9tdurn37scjbq0q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635199331226-6inobmpi21d9r2ct0eg0jjrk6ehn4qge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.markme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
